@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello and welcome!");
         //створюю всі обєкти
         Trst p =new Test();
-        p.tes
+        p.tes;
     }
 }
