@@ -6,6 +6,6 @@ abstract class Shadow {
     public Shadow() {
         soul=1
     }
-    abstract int pvp(Pupel a);
+    abstract int pvp();
 
 }
